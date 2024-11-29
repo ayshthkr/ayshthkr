@@ -29,3 +29,9 @@ src="https://img.shields.io/twitter/follow/codePerfect7?logo=twitter&style=for-t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/codePerfect7"><img src="https://github-readme-stats.vercel.app/api?username=ayshthkr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="codePerfect7's GitHub stats" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayshthkr/ayshthkr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayshthkr/ayshthkr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayshthkr/ayshthkr/output/github-snake.svg" />
+</picture>
