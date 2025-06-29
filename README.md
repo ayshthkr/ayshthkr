@@ -1,26 +1,58 @@
-Hi, My name is Ayush Thakur
-==================================================================================================================================================
+<picture>
+  <img alt="animation" src="https://raw.githubusercontent.com/ayshthkr/ayshthkr/refs/heads/main/animation.svg" />
+</picture>
 
-In love with coding since 2019. Working my way up ranks, tho still at bottom
-* 🌍  I'm based in New Delhi(India)
-* ✉️  You can contact me at [ayshthkr@gmail.com](mailto:ayshthkr@gmail.com)
-* 🤝  I'm open to collaborating on projects, or Hackathons 😆😆
-* ⚡  In love with superheroes (not a secret tho)
+<br>
+<br>
+
+🎓 B.Tech CSE @ NSUT’27 | 💻 Full-Stack + ML Developer | 🛠️ Minimalist Engineer
+
+Hi, I’m Ayush — I like building clean, efficient software and experimenting with applied ML. Whether it's a full-stack product or a segmentation pipeline, I care deeply about simplicity, performance, and impact.
+
+---
+
+## 🧠 What I Work On
+
+- **Full-Stack Dev**: I build scalable apps with **Next.js**, **Svelte**, **PostgreSQL**, and modern tooling. Strong focus on user experience and clean backend architecture.
+- **Machine Learning**: I work on **medical image segmentation**, training **deep learning pipelines** with **PyTorch**, **MONAI**, and **advanced augmentation techniques**.
+- **Dev Community**: I mentor budding developers through hands-on projects and contribute to student-led open-source initiatives (WebDev Mentor at GDSC, NSUT and Senior Developer at Devcomm, NSUT).
+
+---
+
+## 🔍 Selected Projects
+
+- [**Insights**](https://github.com/ayshthkr/insights): AI-powered search engine with dynamic query classification, citations, and export options.
+- [**EcoMitra**](https://github.com/ayshthkr/ecomitra): Financial literacy dashboard that parses bank statements and helps users budget smarter using AI.
+- [**Skin Cancer Detection**](https://github.com/ayshthkr/SkinCancerDetectionUsingCNN): Deep CNN using EfficientNet, achieving 94% accuracy with Grad-CAM explainability.
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Winner @ Innohacks’24 — built logistics optimization and review verification systems.
+- 🚀 Built and deployed full-stack apps used by real users.
+- 📈 Ranked top 0.5% (99.44 percentile) in JEE Mains among 1.1M candidates.
+
+---
+
+## 📫 Reach Out
+
+- GitHub: [@ayshthkr](https://github.com/ayshthkr)
+- LinkedIn: [linkedin.com/in/ayshthkr](https://linkedin.com/in/ayshthkr)
+- Figma: [@ayshthkr](https://www.figma.com/community/file/1512516746727590640/designs)
+- Portfolio: [Website](https://ayshthkr.vercel.app/)
+- Twitter/X: [@ayshthkr](https://x.com/ayshthkr)
+- Resume: [PDF](https://ayshthkr.vercel.app/resume.pdf)
+- Instagram: [@ayshthkr](https://instagram.com/ayshthkr)
+- Email: ayshthkr@gmail.com, ayush.thakur.ug23@nsut.ac.in
+
+---
+
+> I like solving problems with code — clean interfaces, solid logic, and zero bloat. Always open to ideas and collaboration.
+
 
 ![](https://komarev.com/ghpvc/?username=ayshthkr)
-
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ayshthkr)
-
-### Skills
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/codePerfect7"><img src="https://github-readme-stats.vercel.app/api?username=ayshthkr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="codePerfect7's GitHub stats" /></a>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayshthkr/ayshthkr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayshthkr/ayshthkr/output/github-snake.svg" />
